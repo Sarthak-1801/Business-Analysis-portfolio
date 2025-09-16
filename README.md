@@ -10,10 +10,11 @@ You can see more information in my CV
 
 This repository was created to showcase my Business Analysis projects, highlighting my skills (SQL, Power BI, Excel, Tableau) and Business analysis documentation.
 
-# Contents
-- [About me](#about-me)
+# Portfolio Projects
+This section contains a list of projects with brief descriptions
 
 
-
+## Business Analysis Documentation - RWA Mobile Application
+This project is a self-ideated business analysis case study of a Resident Welfare Association (RWA) mobile application. It includes a Business Requirements Document (BRD), user stories with acceptance criteria, and a process map for the complaint-handling workflow, demonstrating end-to-end requirements gathering and documentation skills.
 
 
