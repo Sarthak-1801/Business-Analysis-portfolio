@@ -1,2 +1,3 @@
-# Business-Analysis-portfolio
-A collection of Business Analytics projects showcasing skills in SQL, Power BI, MS Office and other data-driven insights
+Sarthak Madhur- Business Analysis portfolio
+Hi Everyone, I am Sarthak and this is my BA portfolio.
+I am passionate about solving Business problems through Structured Analysis and Data-driven approaches.
