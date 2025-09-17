@@ -1,3 +1,6 @@
+EDA
+-- Skills used: GROUP BY, ORDER BY, CTEs, SUBQUERIES, JOINS, WINDOW Functions 
+----------------------------------------------------------------------------------------------
 
 -- Top 10 customers by Sales value
 SELECT c.Customer_Name, SUM(s.Sales) AS Total_Sales
