@@ -1,4 +1,4 @@
--- Cleaning
+-- Data Cleaning
 DELETE s1 FROM Sales s1
 JOIN Sales s2 
 ON s1.Order_ID = s2.Order_ID 
