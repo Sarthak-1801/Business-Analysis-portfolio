@@ -22,6 +22,6 @@ This project is a self-ideated business analysis case study of a Resident Welfar
 ## Retail Store Performance Analysis
 This project involved a comprehensive analysis of a Retail sales dataset, using SQL for data cleaning, aggregation, and exploration, and created interactive visualizations in Power BI to uncover trends, sales patterns, and key insights for business decision-making.
 
-**Documentation:** [data cleaning](Retail%20Store%20data%SQL%20and%20Power%20BI%20Analysis/data%20cleaning.sql), 
+**Documentation:** [data cleaning](Retail%20Store%20data%20SQL%20and%20Power%20BI%20Analysis/data%20cleaning.sql), 
 
 
