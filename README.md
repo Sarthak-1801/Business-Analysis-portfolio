@@ -18,13 +18,10 @@ This project is a self-ideated business analysis case study of a Resident Welfar
 
 **Documentation:** [Business Requirements Document](BA%20Case%20Study/BRD.pdf), [User stories](BA%20Case%20Study/User%20stories.pdf), [Process Map](BA%20Case%20Study/Process%20Model%20%28Complaint%29.PDF)
 
-**Skills:** Requirements Analysis & Documentation, Stakeholder Analysis, User Stories, Acceptance Criteria, Backlog Prioritization (High/Medium/Low), Process Modeling, Risk Identification & Mitigation, Domain Understanding - Community & Housing Society Management
-
-**Hard Skills:** Business Requirements Document (BRD), Functional & Non-Functional Requirements Specification, Swimlane Diagrams (Lucidchart), Process Mapping, Documentation Tools (Word, Markdown)
-
+**Skills:** Requirements Analysis & Documentation, Stakeholder Analysis, User Stories, Acceptance Criteria, Backlog Prioritization, Process Modeling, Risk Identification & Mitigation, Functional & Non-Functional Requirements Specification
 ## Retail Store Performance Analysis
 This project involved a comprehensive analysis of a Retail sales dataset, using SQL for data cleaning, aggregation, and exploration, and created interactive visualizations in Power BI to uncover trends, sales patterns, and key insights for business decision-making.
 
-**Documentation:** [
+**Documentation:** [data cleaning.sql](Retail%20Store%20data%SQL%20and%20Power%20BI%20Analysis/data%20cleaning.sql), 
 
 
