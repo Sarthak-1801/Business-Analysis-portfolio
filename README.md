@@ -30,4 +30,9 @@ This project involved creating an interactive Dashboard in Microsoft Excel to an
 
 **Uploads:** [Excel File](Excel%20Dashboard%20%28Amazon%20Sales%29/Amazon%20Excel%20Analysis.xlsx), [Dashboard](Excel%20Dashboard%20%28Amazon%20Sales%29/Amazon%20Excel%20Analysis.pdf)
 
+**Skills:** Microsoft Excel, Power Query, Pivot Tables, Data analysis & Visualization
+# Contacts
+**LinkedIn:** [https://www.linkedin.com/in/sarthak-madhur/](https://www.linkedin.com/in/sarthak-madhur/)
+
+**Mail:** [madhursarthak18@gmail.com](madhursarthak18@gmail.com)
 
