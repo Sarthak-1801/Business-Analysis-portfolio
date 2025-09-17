@@ -20,8 +20,14 @@ This project is a self-ideated business analysis case study of a Resident Welfar
 
 **Skills:** Requirements Analysis & Documentation, Stakeholder Analysis, User Stories, Acceptance Criteria, Backlog Prioritization, Process Modeling, Risk Identification & Mitigation, Functional & Non-Functional Requirements Specification
 ## Retail Store Performance Analysis
-This project involved a comprehensive analysis of a Retail sales dataset, using SQL for data cleaning, aggregation, and exploration, and created interactive visualizations in Power BI to uncover trends, sales patterns, and key insights for business decision-making.
+This project involved a comprehensive analysis of a Retail sales dataset, using SQL for data cleaning, aggregation, and exploration, and created interactive dashboard visualizations in Power BI to uncover trends, sales patterns, and key insights for business decision-making.
 
 **Uploads:** [data cleaning](Retail%20Store%20data%20SQL%20and%20Power%20BI%20Analysis/data%20cleaning.sql), [data exploration](Retail%20Store%20data%20SQL%20and%20Power%20BI%20Analysis/data%20exploration.sql), [Dashboard](Retail%20Store%20data%20SQL%20and%20Power%20BI%20Analysis/Retail%20store%20Performance.pdf)
+
+**Skills:** SQL, Power BI, Excel, Github, Business Intelligence, Data Analysis & Visualization
+## Excel Dashboard for Sales
+This project involved creating an interactive Dashboard in Microsoft Excel to analyze Amazon sales data, focusing on key performance metrics, sales trends, and customer insights.
+
+**Uploads:** [XLSX File](
 
 
