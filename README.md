@@ -28,6 +28,6 @@ This project involved a comprehensive analysis of a Retail sales dataset, using 
 ## Excel Dashboard for Sales
 This project involved creating an interactive Dashboard in Microsoft Excel to analyze Amazon sales data, focusing on key performance metrics, sales trends, and customer insights.
 
-**Uploads:** [Excel File](Excel%20Dashboard%20%28Amazon%20Sales%29/Amazon%20Excel%20Analysis.xlsx),
+**Uploads:** [Excel File](Excel%20Dashboard%20%28Amazon%20Sales%29/Amazon%20Excel%20Analysis.xlsx), [Dashboard](Excel%20Dashboard%20%28Amazon%20Sales%29/Amazon%20Excel%20Analysis.pdf)
 
 
