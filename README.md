@@ -7,7 +7,7 @@ I am passionate about solving Business problems through Structured Analysis and 
 I have a background in Business and Management Studies
 
 
-This repository was created to showcase my Business Analysis projects, highlighting my skills (SQL, Power BI, Excel, Tableau) and Business analysis documentation.
+This repository was created to showcase my projects, highlighting my skills (SQL, Power BI, Excel, Tableau) and Business analysis documentation.
 
 # Portfolio Projects
 This section contains a list of projects with brief descriptions
